@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "714687087598",
+    "project_id": "fyp-navigator-app",
+    "storage_bucket": "fyp-navigator-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714687087598:android:5815def281fe9956d284ff",
+        "android_client_info": {
+          "package_name": "com.example.final_year_projects_navigator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMODGqImbMxestKxSnNE7jFbIiuQ_lpvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
