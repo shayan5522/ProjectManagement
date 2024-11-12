@@ -12,7 +12,6 @@ class LoginController extends GetxController {
   final emailController = TextEditingController();
   final passwordController = TextEditingController();
   final AuthService authService = AuthService();
-
   Future<void> login() async {
     isLoading.value = false;
     if (emailController.text != '' && passwordController.text != '') {
@@ -55,5 +54,4 @@ class LoginController extends GetxController {
       showErrorSnackbar('Please fill all the fields first');
     }
   }
-
 }
