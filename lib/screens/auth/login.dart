@@ -81,15 +81,15 @@ class _LoginPageState extends State<LoginPage> {
                       color: Colors.tealAccent.shade700,
                     ),
                   ),
-                  SizedBox(height: 8),
+                  const SizedBox(height: 8),
 
                   // Subheader Text
-                  TextWidget(
+                  const TextWidget(
                     title: 'Please login to continue using our app',
                     size: 16,
                     color: Colors.grey,
                   ),
-                  SizedBox(height: 30),
+                  const SizedBox(height: 30),
 
                   // Email Input Field
                   TextFormField(
